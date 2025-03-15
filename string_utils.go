@@ -27,3 +27,8 @@ func ToDa(substr string) string {
 func ToXiao(substr string) string {
 	return strings.ToUpper(substr)
 }
+
+// ToXiao 变大写
+func To1(substr string) string {
+	return "1"
+}
