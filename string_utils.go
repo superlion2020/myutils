@@ -17,3 +17,8 @@ func ReverseString(s string) string {
 func ContainsIgnoreCase(s, substr string) bool {
 	return strings.Contains(strings.ToLower(s), strings.ToLower(substr))
 }
+
+// 变大写
+func RemoveFirstOne(substr string) string {
+	return strings.ToUpper(substr)
+}
