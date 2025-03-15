@@ -18,7 +18,12 @@ func ContainsIgnoreCase(s, substr string) bool {
 	return strings.Contains(strings.ToLower(s), strings.ToLower(substr))
 }
 
-// 变大写
-func RemoveFirstOne(substr string) string {
+// ToDa daxia
+func ToDa(substr string) string {
+	return strings.ToUpper(substr)
+}
+
+// ToXiao 变大写
+func ToXiao(substr string) string {
 	return strings.ToUpper(substr)
 }
