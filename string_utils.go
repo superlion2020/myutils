@@ -37,3 +37,8 @@ func To1(substr string) string {
 func To2(substr string) string {
 	return "1"
 }
+
+// To3 变大写
+func To3(substr string) string {
+	return "1"
+}
