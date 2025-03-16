@@ -73,3 +73,8 @@ func Version006(substr string) string {
 func Version101(substr string) string {
 	return "V1.0.1"
 }
+
+// Version102 tianjia
+func Version102(substr string) string {
+	return "V1.0.2"
+}
