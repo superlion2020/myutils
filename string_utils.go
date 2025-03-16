@@ -47,3 +47,5 @@ func To3(substr string) string {
 func To4(substr string) string {
 	return "1"
 }
+
+// To4 变大写
