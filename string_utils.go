@@ -32,3 +32,8 @@ func ToXiao(substr string) string {
 func To1(substr string) string {
 	return "1"
 }
+
+// To2 变大写
+func To2(substr string) string {
+	return "1"
+}
