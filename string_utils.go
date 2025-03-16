@@ -53,3 +53,8 @@ func To4(substr string) string {
 func Version003(substr string) string {
 	return "V0.0.3"
 }
+
+// Version004 tianjia
+func Version004(substr string) string {
+	return "V0.0.4"
+}
